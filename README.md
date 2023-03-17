@@ -19,4 +19,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=troy8434&" alt="troy8434" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=troy8434&show_icons=true&locale=en&layout=compact" alt="troy8434" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=troy8434&show_icons=true&locale=en&layout=compact&count-private=true" alt="troy8434" /></p>
+
