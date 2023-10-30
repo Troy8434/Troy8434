@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Troy</h1>
 <h2 align="center">A student from Germany</h2>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=troy8434&theme=dark" alt="troy8434" /></p>
+
 <b>🖋</b> I'm currently maintaining 3 Discord bots
 
 <b>🕮</b> I'm studying C / C++
