@@ -9,7 +9,7 @@
 
 <b>🌱</b> Most of my current projects are made using JS / Python
 
-<b>☂</b> I'm occasionally doing Websites (3 done)
+<b>☂</b> I occasionally do Websites (3 done)
 
 <b>👨‍💻</b> Check out my main Project: [https://top.gg/de/bot/949729221079621652](https://top.gg/de/bot/949729221079621652)
 
